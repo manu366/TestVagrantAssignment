@@ -22,3 +22,11 @@ myPlaylist.displaySongs();
 When S1 song is added,then out put is -> S4,S2,S1
 myPlaylist.addSong("S1");
 myPlaylist.displaySongs();
+
+
+
+How to excute the code?
+
+* pull the code to the Visual Studio code
+* Open the new terminal
+* give the command "node TestVagrantAssignment/TestVagrantAssignment.js" 
